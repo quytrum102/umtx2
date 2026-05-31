@@ -224,6 +224,16 @@ const payload_map = [
         version: "0.1.1",
         toPort: 9021
     },
+	{
+        displayTitle: "garlic-savemgr",
+        description: "Edit save file.",
+        fileName: "garlic-savemgr.elf",
+        author: "earthonion",
+        projectSource: "https://git.etawen.dev/earthonion/garlic-savemgr",
+        binarySource: "https://git.etawen.dev/earthonion/garlic-savemgr/releases/tag/v1.7",
+        version: "1.7",
+        toPort: 9021
+    },
     {
         // https://github.com/Storm21CH/PS5_Browser_appCache_remove
         displayTitle: "Browser appcache remover",
