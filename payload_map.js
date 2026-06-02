@@ -57,7 +57,7 @@ const payload_map = [
         author: "LightningMods, Buzzer, sleirsgoevy, ChendoChap, astrelsky, illusion, CTN, SiSTR0, Nomadic",
         projectSource: "https://github.com/etaHEN/etaHEN",
         binarySource: "https://github.com/etaHEN/etaHEN/releases/download/2.6B/etaHEN-2.6B.bin",
-        version: "2.6b",
+        version: "2.5b",
         toPort: 9021
     },
     {
@@ -159,7 +159,7 @@ const payload_map = [
         author: "drakmor",
         projectSource: "https://github.com/drakmor/ShadowMountPlus/",
         binarySource: "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.6beta5",
-        version: "1.6test11",
+        version: "1.6test14",
         toPort: 9021
     },
     {
